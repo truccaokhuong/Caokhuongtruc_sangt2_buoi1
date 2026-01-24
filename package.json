@@ -1,0 +1,11 @@
+﻿{
+  "name": "products-exercise",
+  "version": "1.0.0",
+  "description": "Node.js implementation of product exercises",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
